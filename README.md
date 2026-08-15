@@ -17,17 +17,17 @@ Crear un repositorio en Github con una cuenta de estudiante, clonar el repositor
 ### 1. Configuración del Entorno
 Solicité mi cuenta de estudiante en GitHub y activé la alternativa gratuita de GitHub Copilot, a continuación, cree este repositorio llamado "AI_Project"
 
-![Creacion repositorio](captura1.png)
+![Creacion repositorio](img/captura1.png)
 
 ### 2. Clonación del Repositorio
 Cloné el repositorio localmente utilizando la terminal de Visual Studio Code con el comando "git clone"
 
-![Clonación repositorio](captura2.png)
+![Clonación repositorio](img/captura2.png)
 
 ### 3. Generación de Código con IA
 Creé el archivo `recommendation_system.py` usé comentarios en lenguaje natural para solicitarle a GitHub Copilot que generara la estructura de un sistema de recomendaciones basado en diccionarios y funciones
 
-![Generación de codigo con GithubCopilot](captura3.png)
+![Generación de codigo con GithubCopilot](img/captura3.png)
 
 ### 4. Sincronización de Cambios
 Finalmente, utilicé los comandos de Git para sincronizar mi trabajo local con el repositorio remoto en GitHub:
@@ -35,4 +35,4 @@ Finalmente, utilicé los comandos de Git para sincronizar mi trabajo local con e
 - `git commit -m "AI_Project GithubCopilot"`
 - `git push -u origin main`
 
-![push al repositorio](captura4.png)
+![push al repositorio](img/captura4.png)
